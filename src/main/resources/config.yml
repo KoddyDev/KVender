@@ -1,0 +1,38 @@
+# Developed By KoddyDev
+
+Delays:
+  AutoVender: 2.5
+  Shift: 3
+
+Items:
+  Stone:
+    Item: "95:0"
+    PrecoDrop: 3000
+
+Menu:
+  Titulo: "&aMenu de Vendas"
+  Items:
+    AutoVender:
+      Titulo: "&bAuto-Venda"
+      Descricao:
+        - " "
+        - "&fPara utilizar isto você precisa"
+        - "&fDa permissão §bvendas.autovender"
+        - ""
+        - "&fStatus: %status%"
+        - ""
+    Shift:
+      Titulo: "§9Vendas por Shift"
+      Descricao:
+        - " "
+        - "&fPara utilizar isto você precisa"
+        - "&fDa permissão §9vendas.shift"
+        - ""
+        - "&fStatus: %status%"
+        - ""
+    Vender:
+      Titulo: "§7Vender"
+      Descricao:
+        - " "
+        - "&fVenda seus items instantaneamente!"
+        - ""

@@ -1,0 +1,9 @@
+name: KVender
+version: '${version}'
+main: me.koddydev.kvender.KVender
+api-version: 1.8
+depend: [Vault]
+authors: [ KoddyDev ]
+commands:
+  vender:
+    description: Comando de vender
